@@ -4,5 +4,23 @@
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "openai": "^5.11.0"
-  }
+  },
+  "name": "chat-open-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukeshkr59/Chat-OPEN-AI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukeshkr59/Chat-OPEN-AI/issues"
+  },
+  "homepage": "https://github.com/mukeshkr59/Chat-OPEN-AI#readme",
+  "description": ""
 }
